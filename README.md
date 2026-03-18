@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Walter Zhong, an Electrical Engineering student at the New Jersey Institute of Technology,
-I enjoy to build stuff that makes my life easier. Outside of school, I like to Explore the city and liten to music, big fan of Bruno Mars and Keshi.
-
+#### I'm Walter Zhong, an Electrical Engineering student at the New Jersey Institute of Technology,
+#### I enjoy building stuff that makes my life easier. Outside of school, I like to explore the city and listen to music, big fan of Bruno Mars and Keshi.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/walterzh0ng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waltzhong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lin.walterzhong@gmail.com) 
